@@ -10,10 +10,7 @@ Welcome to the Customer Data Analysis project! This repository contains a Jupyte
 - [Overview](#overview)
 - [Files](#files)
 - [System Requirements](#system-requirements)
-- [How to Run the Project](#how-to-run-the-project)
-- [Analysis Steps](#analysis-steps)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -39,3 +36,6 @@ You can install the required libraries using pip. Open your terminal or command 
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+
+
+
